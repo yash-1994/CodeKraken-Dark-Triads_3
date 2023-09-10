@@ -1,4 +1,4 @@
-# CodeKraken_Dark-Triads_1
+# CodeKraken_Dark-Triads_3
 
 ## Problem Explanation:
 
