@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">mess_mark_01</string>
+    <string name="otp_message">Your OTP code is %1$s. Please use this code to verify your account.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="product_card_price">$15/Kgs</string>
+</resources>

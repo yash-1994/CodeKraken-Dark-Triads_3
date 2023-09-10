@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "871761665444",
+    "project_id": "inspiring-tower-390203",
+    "storage_bucket": "inspiring-tower-390203.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:871761665444:android:f4a044b1de61f08fdc3531",
+        "android_client_info": {
+          "package_name": "com.example.mess_mark_01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "871761665444-h11c4vv1ejjafufbtl70a20lbl20mtt0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8GoxBlxyB3jo5k_Be2ejpaUl6jAuu8mw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "871761665444-h11c4vv1ejjafufbtl70a20lbl20mtt0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

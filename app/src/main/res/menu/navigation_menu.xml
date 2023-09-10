@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/gree_home"
+        android:iconTint="@color/green"
+        android:title="Home" />
+    <item
+        android:id="@+id/nav_explore"
+        android:icon="@drawable/gree_compass"
+        android:iconTint="@color/green"
+        android:title="Explore" />
+    <item
+        android:id="@+id/nav_profile"
+        android:iconTint="@color/green"
+
+        android:icon="@drawable/green_user"
+        android:title="Profile" />
+</menu>
